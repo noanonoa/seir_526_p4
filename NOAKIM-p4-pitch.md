@@ -1,5 +1,5 @@
 # Project 4 Pitch
-- Name of App: VIZ-
+- Name of App: TBD
 - Name: Noa Kim
 - D3.js on React.js
 ### How do you plan on learning/implementing this new technology?
@@ -11,3 +11,4 @@ Myself and anyone else interested in visual accounting
 ### Any potential roadblocks you think you might run into?
 Implementing new, unfamiliar technology is always challenging so I expect nothing less from D3 on React.  Initial roadblocks may include time constraints, integration (syntax, i/o, etc.), and resource availability.
 ## Workflow
+[link to Trello board](https://trello.com/b/pGn77w5v/p4)
